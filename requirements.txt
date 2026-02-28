@@ -1,0 +1,4 @@
+instaloader
+pandas
+python-telegram-bot
+openpyxl
